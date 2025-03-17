@@ -1,17 +1,25 @@
-# GamebyMood
-GameByMood is a web application that recommends video games based on users' selected moods and preferred genres. The frontend is developed using HTML, CSS, and JavaScript, providing an intuitive user interface. The backend is powered by Python, utilizing the Gemini API to generate personalized game suggestions. Users can select from various moods—such as Adventurous, Relaxed, or Exciting—and genres like RPG, FPS, or Puzzle to receive tailored game recommendations.
+🎮 GameByMood
+GameByMood is a web application that recommends video games based on your mood and preferred genre. The frontend is built with HTML, CSS, and JavaScript, while the backend is powered by Python and utilizes the Gemini API to generate personalized game suggestions.
 
-Features:
+🌐 Live Demo: GameByMood
 
-*Mood Selection*: Choose from a variety of moods to find games that match your current feelings.
-*Genre Selection*: Select your preferred game genres to refine recommendations.
-*Personalized Recommendations*: Receive game suggestions tailored to your mood and genre preferences.
-*Mood & Genre Guide*: Access a guide that explains how different moods align with various game genres.
+🚀 Features
+✅ Mood Selection – Choose from various moods (Adventurous, Relaxed, Exciting, etc.)
 
-Technologies Used:
+✅ Genre Selection – Select your favorite game genres (RPG, FPS, Puzzle, etc.)
 
-Frontend: HTML, CSS, JavaScript
+✅ AI-Powered Recommendations – Uses Gemini API to provide personalized game suggestions
 
-Backend: Python, Gemini API
+✅ Mood & Genre Guide – Helps you understand how different moods align with various genres
 
-This project aims to enhance the gaming experience by helping users discover games that resonate with their current mood and interests.
+
+🛠️ Technologies Used
+Frontend
+HTML
+CSS
+JavaScript
+Backend
+Python
+Gemini API
+📸 Preview
+(Consider adding an image or GIF of your app here for better engagement!)
