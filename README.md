@@ -9,7 +9,9 @@ Features:
 *Mood & Genre Guide*: Access a guide that explains how different moods align with various game genres.
 
 Technologies Used:
+
 Frontend: HTML, CSS, JavaScript
 
 Backend: Python, Gemini API
+
 This project aims to enhance the gaming experience by helping users discover games that resonate with their current mood and interests.
